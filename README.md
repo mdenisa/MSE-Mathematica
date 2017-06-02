@@ -2,7 +2,7 @@
 
 This code was designed by Theodore Chronis in collaboration with Denisa Mindruta.
 
-The code builds upon Jeremy Fox’s theoretical work on the “pairwise maximum score estimator” (Fox 2010; Fox 2016) and the original Match Estimation toolkit (Santiago and Fox, 2009) which can be downloaded from http://fox.web.rice.edu/
+The code builds upon Jeremy Fox’s theoretical work on the “pairwise maximum score estimator” (Fox 2010; Fox 2017) and the original Match Estimation toolkit (Santiago and Fox, 2009) which can be downloaded from http://fox.web.rice.edu/
 
 To understand the present code the user needs to be familiar with the maximum score estimator and formal matching games. To ease the exposition, this documentation and the code itself follow closely the terminology used by Jeremy Fox. Unless stated otherwise, please refer back to the original sources for definitions and technical details accessible via the links at the bottom of this document.  
 
@@ -67,9 +67,9 @@ For a more complete
 
 ## References
 
-David Santiago and Fox, Jeremy. “A Toolkit for Matching Maximum Score Estimation and Point and Set Identified Subsampling Inference”. 2009. Last accessed from http://fox.web.rice.edu/computer-code/matchestimation-452-documen.pdf
+David Santiago and Fox, Jeremy. 2009. “A Toolkit for Matching Maximum Score Estimation and Point and Set Identified Subsampling Inference”. Last accessed from http://fox.web.rice.edu/computer-code/matchestimation-452-documen.pdf
 
-Fox, Jeremy, “Estimating Matching Games with Transfers,” 2016. Last accessed from http://fox.web.rice.edu/working-papers/fox-matching-maximum-score.pdf
+Fox, Jeremy. 2017. “Estimating Matching Games with Transfers”. Last accessed from http://fox.web.rice.edu/working-papers/fox-matching-maximum-score.pdf
 
 Fox J. 2010. Identification in matching games. Quantitative Economics 1: 203–254
 
